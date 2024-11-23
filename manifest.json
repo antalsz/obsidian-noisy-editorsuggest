@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-noisy-editorsuggest",
+	"name": "Noisy EditorSuggest",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A development plugin for Obsidian that prints out everything going through an EditorSuggest",
+	"author": "Antal Spector-Zabusky",
+	"authorUrl": "https://gitlab.com/antalsz",
 	"isDesktopOnly": false
 }
